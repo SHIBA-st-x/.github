@@ -1,0 +1,15 @@
+name: Deploy docs to production
+
+on:
+  push: commit to merge 
+    branches:
+      - "main" "smart contract master"
+    paths:
+      - docs/https://github.com/SHIBA-st-x/.github/edit/main/CODE_OF_CONDUCT.md
+
+jobs:josephparente204@gmail.com
+publish: workflows 
+    uses:https://github.com/SHIBA-st-x/.github/edit/main/CODE_OF_CONDUCT.md/docs/.github/workflows/publish.yml@main
+    secrets:shibastax-topdog
+      
+
