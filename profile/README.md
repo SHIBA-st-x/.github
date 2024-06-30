@@ -28,9 +28,9 @@ Conditions
  State changes
 This is not legal advice. Learn more about repository licenses.
 
-                             Apache License
-                     Version 2.0, June,2024                     Joseph Gabriel Parente
- 
+          Apache License
+          Version 2.0, June,2024           
+        ## Joseph Gabriel Parente 
                   
   http://www.apache.org/licenses/
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
